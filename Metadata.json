@@ -1,0 +1,31 @@
+[{
+  "description": "A color pencil sketch of a parrot", 
+  "external_url": "https://openseacreatures.io/", 
+  "image": "https://crimson-magic-zebra-113.mypinata.cloud/ipfs/QmYjBiBAcCGj7RN5geMnqBK81A4JBseWn261JbvKbaYwMS", 
+  "name": "Parrot",
+  "attributes": [
+   {
+      "trait_type": "Content", 
+      "value": "Bird Sketch"
+    }, 
+    {
+      "trait_type": "Sketch type", 
+      "value": "Color Pencil"
+    }
+  ]
+},{
+  "description": "A pencil sketch ", 
+  "external_url": "https://openseacreatures.io/", 
+  "image": "https://crimson-magic-zebra-113.mypinata.cloud/ipfs/QmYHKoKceV3FWvijVJbGo5AVudhDzsYAnwDBsvBBzW1VKt", 
+  "name": "A pencil Sketch",
+  "attributes": [
+   {
+      "trait_type": "Type", 
+      "value": "Pencil Sketch"
+    }, 
+    {
+      "trait_type": "Sketch", 
+      "value": "Pencil"
+    }
+  ]
+}]
